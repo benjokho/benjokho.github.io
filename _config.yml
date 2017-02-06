@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Plugins
 gems:             ['jekyll-paginate', 'jekyll-gist', 'jekyll-github-metadata']
 
@@ -25,3 +26,6 @@ version:          1.0.1
 
 github:
   repo:           https://github.com/karloespiritu/blackdoc
+=======
+theme: jekyll-theme-dinky
+>>>>>>> origin/master
